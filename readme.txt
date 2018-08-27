@@ -7,3 +7,4 @@ add three
 add four
 add last
 and
+$
